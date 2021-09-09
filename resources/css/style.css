@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+header h1{
+    font-size: 50px;
+    color: white;
+}
+header{
+    text-align: center;
+}
+
+header a{
+    color: aquamarine;
+    font-size: 16px;
+}
