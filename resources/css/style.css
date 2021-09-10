@@ -38,7 +38,9 @@ footer{
     text-align: right;
     color: gray;
 }
-
+footer p{
+    font-size: 21px;
+}
 video{
     text-align: center;
 }
