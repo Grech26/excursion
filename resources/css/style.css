@@ -6,12 +6,39 @@ body{
 header h1{
     font-size: 50px;
     color: white;
+    font-weight: normal;
 }
 header{
     text-align: center;
 }
 
-header a{
+a {
     color: aquamarine;
     font-size: 16px;
+}
+
+div h3{
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+
+div p{
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+    color: gray;
+}
+
+video{
+    text-align: center;
 }
